@@ -154,7 +154,7 @@ Edit:
 
 #### Configuration for 5ire Desktop Application:
 
-- Simply add an MCP with the command `python3 /absolute/path/to/client.py http://LINUX_IP:5000` and it will automatically generate the needed configuration files.
+- Simply add an MCP with the command `python3 /absolute/path/to/client.py --server http://LINUX_IP:5000` and it will automatically generate the needed configuration files.
 
 ## 🔮 Other Possibilities
 
